@@ -9,8 +9,10 @@ This is a template to get started making things with [TypeScript](https://www.ty
 
 ## To use
 
-Must have [Node.js](https://nodejs.org/en/) installed.
+Requires [Node.js](https://nodejs.org/en)
 
 `npm i` install node modules
+
 `npm run dev` to dev with live reload
+
 `npm run build` to build
