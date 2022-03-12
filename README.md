@@ -1,6 +1,6 @@
 # Interactive Canvas Template
 
-This is a template to get started making things with [TypeScript](https://www.typescriptlang.org/) and [p5.js](https://p5js.org/).
+This is a template to get started making things with [TypeScript](https://www.typescriptlang.org/) and [p5.js](https://p5js.org/)
 
 ## Features
 
